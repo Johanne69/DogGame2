@@ -1765,523 +1765,568 @@
 "../../../../../UE4 projects/DogGame/Intermediate/AssetRegistryCache/311563bb.bin" 1765
 "../../../../../UE4 projects/DogGame/Intermediate/AssetRegistryCache/c90e3f55.bin" 1766
 "../../../../../UE4 projects/DogGame/Content/Garage.umap" 1767
-"../../../../../UE4 projects/DogGame/Content/MainMenu.umap" 1768
-"../../../../../UE4 projects/DogGame/Content/UntitledDogGame.umap" 1769
-"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/fuckthisshitiwannadie1.uasset" 1770
-"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/Scene_TVroom.uasset" 1771
-"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/Scene_TVroom_Sprite.uasset" 1772
-"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/Stue.uasset" 1773
-"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/Stue_Sprite.uasset" 1774
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Button_exit.uasset" 1775
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Button_exit_Sprite.uasset" 1776
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Button_Start.uasset" 1777
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Button_Start_Sprite.uasset" 1778
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/thetitleismadeofmydreamsandhopes.uasset" 1779
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/thetitleismadeofmydreamsandhopes_Sprite.uasset" 1780
-"../../../../../UE4 projects/DogGame/Content/Assets/Sound/Angry_Raccoon.uasset" 1781
-"../../../../../UE4 projects/DogGame/Content/Assets/Sound/Boy_Sceam.uasset" 1782
-"../../../../../UE4 projects/DogGame/Content/Assets/Sound/Dog_Walk_inside1.uasset" 1783
-"../../../../../UE4 projects/DogGame/Content/Assets/Sound/Dog_Walk_inside2.uasset" 1784
-"../../../../../UE4 projects/DogGame/Content/Assets/Sound/Outside_house.uasset" 1785
-"../../../../../UE4 projects/DogGame/Content/Assets/Sound/SC_AngetryRacoon.uasset" 1786
-"../../../../../UE4 projects/DogGame/Content/Assets/Sound/SC_WalkInside.uasset" 1787
-"../../../../../UE4 projects/DogGame/Content/Assets/Sound/Wrench.uasset" 1788
+"../../../../../UE4 projects/DogGame/Content/UntitledDogGame.umap" 1768
+"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/BP_Racoon.uasset" 1769
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1770
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1771
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1772
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1773
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1774
+"../../../Engine/Content/BasicShapes/Cone.uasset" 1775
+"../../../Engine/Content/BasicShapes/Plane.uasset" 1776
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 1777
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 1778
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 1779
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 1780
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 1781
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 1782
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 1783
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 1784
+"../../../../../UE4 projects/DogGame/Intermediate/AssetRegistryCache/fc0b6af2.bin" 1785
+"../../../../../UE4 projects/DogGame/Content/MainMenu.umap" 1786
+"../../../../../UE4 projects/DogGame/Content/NewMap.umap" 1787
+"../../../../../UE4 projects/DogGame/Content/ENDING/LevelDesign/MAP_End.umap" 1788
 "../../../../../UE4 projects/DogGame/Content/Blueprints/BP_Character.uasset" 1789
-"../../../../../UE4 projects/DogGame/Content/Blueprints/WBP_StartMenu.uasset" 1790
-"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/BP_Dad1.uasset" 1791
-"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/BP_Dad2.uasset" 1792
-"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/BP_Racoon.uasset" 1793
-"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/BP_Son.uasset" 1794
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1795
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1796
-"../../../Engine/Content/BasicShapes/Cube.uasset" 1797
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 1798
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1799
-"../../../Engine/Content/BasicShapes/Cone.uasset" 1800
-"../../../Engine/Content/BasicShapes/Plane.uasset" 1801
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 1802
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 1803
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 1804
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 1805
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 1806
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 1807
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 1808
-"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 1809
-"../../../../../UE4 projects/DogGame/Intermediate/AssetRegistryCache/fc0b6af2.bin" 1810
-"../../../../../UE4 projects/DogGame/Content/NewMap.umap" 1811
-"../../../../../UE4 projects/DogGame/Content/Blueprints/BP_Collision.uasset" 1812
-"../../../../../UE4 projects/DogGame/Content/Blueprints/BP_Floor.uasset" 1813
-"../../../../../UE4 projects/DogGame/Content/Blueprints/BP_GameMode.uasset" 1814
-"../../../../../UE4 projects/DogGame/Content/Blueprints/BlueprintInterfaces/BPI_Interact.uasset" 1815
-"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/BP_BaseInteractable.uasset" 1816
-"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/BP_BaseItem.uasset" 1817
-"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/BP_Dad1Wrench.uasset" 1818
-"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/BP_Daughter.uasset" 1819
-"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/BP_Plum.uasset" 1820
-"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/BP_RacoonDad.uasset" 1821
-"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/BP_RubberDucky.uasset" 1822
-"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game.uasset" 1823
-"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_LevelBP.uasset" 1824
-"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Pawn.uasset" 1825
-"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary.uasset" 1826
-"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureMacros.uasset" 1827
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 1828
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 1829
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1830
-"../../../Engine/Content/FunctionalTesting/Blueprints/AITesting_MoveGoal.uasset" 1831
-"../../../Engine/Content/Sequencer/DefaultBurnInOptions.uasset" 1832
-"../../../Engine/Content/Tutorial/Basics/ContentBrowserOverview.uasset" 1833
-"../../../Engine/Content/Tutorial/Basics/FeaturePacks.uasset" 1834
-"../../../Engine/Content/Tutorial/Basics/ViewportsTutorial.uasset" 1835
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 1836
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 1837
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 1838
-"../../../Engine/Content/Tutorial/BlueprintTutorials/ClassBlueprintsEditorOverview.uasset" 1839
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Class.uasset" 1840
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 1841
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 1842
-"../../../Engine/Content/Tutorial/Code/AddingCode.uasset" 1843
-"../../../Engine/Content/Tutorial/Foliage/FoliageWalkThrough.uasset" 1844
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 1845
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 1846
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 1847
-"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 1848
-"../../../Engine/Content/Tutorial/Installation/InstallingXCodeTutorial.uasset" 1849
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial.uasset" 1850
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part2.uasset" 1851
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part3.uasset" 1852
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.uasset" 1853
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge1.uasset" 1854
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge2.uasset" 1855
-"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 1856
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 1857
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 1858
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 1859
-"../../../Engine/Content/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.uasset" 1860
-"../../../Engine/Content/Tutorial/Mobile/InstallingiTunesTutorial.uasset" 1861
-"../../../Engine/Content/Tutorial/Mobile/SettingUpAndroidTutorial.uasset" 1862
-"../../../Engine/Content/Tutorial/Mobile/SettingUpLuminTutorial.uasset" 1863
-"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 1864
-"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 1865
-"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 1866
-"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 1867
-"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 1868
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 1869
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.uasset" 1870
-"../../../Engine/Content/Tutorial/SubEditors/PersonaWalkthrough.uasset" 1871
-"../../../Engine/Content/Tutorial/SubEditors/SkeletalMeshEditorWalkthrough.uasset" 1872
-"../../../Engine/Content/Tutorial/SubEditors/SkeletonModeWalkthrough.uasset" 1873
-"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 1874
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 1875
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_AnimatedNode.uasset" 1876
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Animation.uasset" 1877
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 1878
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 1879
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SharedNode.uasset" 1880
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 1881
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Toggle.uasset" 1882
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimatedNode.uasset" 1883
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimation.uasset" 1884
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimNode.uasset" 1885
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 1886
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/BP_AnimationPlayer.uasset" 1887
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/ImportedSequencesHelper.uasset" 1888
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationPlayer.uasset" 1889
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/BP_VariantSelector.uasset" 1890
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantsSelector.uasset" 1891
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithActor.uasset" 1892
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithAreaLight.uasset" 1893
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithArealightMesh.uasset" 1894
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithLayer.uasset" 1895
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithSelector.uasset" 1896
-"../../../Engine/Content/Sequencer/DefaultBurnIn.uasset" 1897
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/AnimationSampleUI.uasset" 1898
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/VREDAnimationSampleUI.uasset" 1899
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/VREDVariantSampleUI.uasset" 1900
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialAnimationBlueprint.uasset" 1901
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 1902
-"../../../Engine/Config//BaseEngine.ini" 1903
-"../../../Engine/Config/HTML5/HTML5Engine.ini" 1904
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 1905
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1906
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1907
-"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/F_InteractableVariables.uasset" 1908
-"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/F_ItemInfo.uasset" 1909
-"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/E_ItemType.uasset" 1910
-"../../../../../UE4 projects/DogGame/Content/TemporaryAssets/S_Nemo_Idle_1_Sprite.uasset" 1911
-"../../../../../UE4 projects/DogGame/Content/TemporaryAssets/Nemo_Idle_1.uasset" 1912
-"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_SadDogIdle.uasset" 1913
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_Idle1_Sprite.uasset" 1914
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_Idle1.uasset" 1915
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_Idle2_Sprite.uasset" 1916
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_Idle2.uasset" 1917
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_Idle3_Sprite.uasset" 1918
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_Idle3.uasset" 1919
-"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_RacoonIdle.uasset" 1920
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Idle1_Sprite.uasset" 1921
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Idle1.uasset" 1922
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Idle2_Sprite.uasset" 1923
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Idle2.uasset" 1924
-"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_RacoonRun.uasset" 1925
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Run1_Sprite.uasset" 1926
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Run1.uasset" 1927
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Run2_Sprite.uasset" 1928
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Run2.uasset" 1929
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Run3_Sprite.uasset" 1930
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Run3.uasset" 1931
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Run4_Sprite.uasset" 1932
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Run4.uasset" 1933
-"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_DogBark.uasset" 1934
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Bark2_Sprite.uasset" 1935
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Bark2.uasset" 1936
-"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_DogFall.uasset" 1937
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Jumputensad2_Sprite.uasset" 1938
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Jumputensad2.uasset" 1939
-"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_DogIdle.uasset" 1940
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_tailwag1_Sprite.uasset" 1941
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_tailwag1.uasset" 1942
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_tailwag2_Sprite.uasset" 1943
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_tailwag2.uasset" 1944
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_tailwag3_Sprite.uasset" 1945
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_tailwag3.uasset" 1946
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_tailwag4_Sprite.uasset" 1947
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_tailwag4.uasset" 1948
-"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_DogJump.uasset" 1949
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Jumputensad1_Sprite.uasset" 1950
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Jumputensad1.uasset" 1951
-"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_DogWalk.uasset" 1952
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_walking1_Sprite.uasset" 1953
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_walking1.uasset" 1954
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_walking2_Sprite.uasset" 1955
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_walking2.uasset" 1956
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_walking3_Sprite.uasset" 1957
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_walking3.uasset" 1958
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_walking4_Sprite.uasset" 1959
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_walking4.uasset" 1960
-"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_SadDogBark.uasset" 1961
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_bark2_Sprite.uasset" 1962
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_bark2.uasset" 1963
-"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_SadDogFall.uasset" 1964
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Jump2_Sprite.uasset" 1965
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Jump2.uasset" 1966
-"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_SadDogJump.uasset" 1967
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Jump1_Sprite.uasset" 1968
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Jump1.uasset" 1969
-"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_SadDogWalk.uasset" 1970
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_walking1_Sprite.uasset" 1971
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_walking1.uasset" 1972
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_walking2_Sprite.uasset" 1973
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_walking2.uasset" 1974
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_walking3_Sprite.uasset" 1975
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_walking3.uasset" 1976
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_walking4_Sprite.uasset" 1977
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_walking4.uasset" 1978
-"../../../../../UE4 projects/DogGame/Content/Assets/Sound/Dog_Bark.uasset" 1979
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/8/AUDIO_0005_0000_OGG_0002_D2F96C594107C03304EC9EB3FD71C730.udd" 1980
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/4/AUDIO_0005_0000_OGG_0002_793C2E1A44140B35B10AD388FC4C5DF9.udd" 1981
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/5/AUDIO_0005_0000_OGG_0002_7D8994CF41245D15EB7C86B759613C26.udd" 1982
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_941A32944CDF5CB1EE1E3C8D696F7CE__AA66FC82F42F48922C19E38CFDED0725B2780EEC.udd" 1983
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_71256F304108BA1722D96F830A8546B__BF0A22CD88B47FE47ED455DC34FC5839B875C456.udd" 1984
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_8BFC525449F0ADE4551A569B79CFB42__9966C6046D1083BD91C03E4B426DBF563B91BC89.udd" 1985
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_2F671D414847FEC2340EE2972DB6AAA__AC3648776AC18C067B6A3BD49A68BFABA293CF7D.udd" 1986
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_55334EFE4851B3CF0FB372BC6518DA5__5DE42458FA0CB83991BBBA41E2873513E1C6DC71.udd" 1987
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_0F067DAD47C26BC9198CA7A53E8B6FC__BB186E8DED069D58BE14D5BFA6435ED177E2FC5C.udd" 1988
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_1C5937FF4B9269648080448DC8F4EF8__96BFAC62A7817C0F7A93356394594A6C1625EA13.udd" 1989
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_17B8C3884076F127E2458DBE617F358__7F562A4D01902B4CE1B08FF6608BABA82DAC0737.udd" 1990
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_B178D6B04F2036CD0E093CB66132450__407E1356E3D4FA04A74FB549BACAB2A2CC706955.udd" 1991
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_A06F3037448F3E96081BCAB010B647C__DFE260F4BE107EA3D75710B807404F250D67B7EA.udd" 1992
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_A4C69DD148D3EA81710FBFA4EBC0E51__426C406921DF3891DA04DC10B61401483621DF0C.udd" 1993
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D2C56D034E95E81C2B870F94F52A34D__5ED19635ADFE7EAEA564A6E5393452B40CCB57A0.udd" 1994
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_EC6318A8419428C0C9F71DA2A110BB4__3E13DE89860775E23143F639B9564507FEBB796C.udd" 1995
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_DBD6BD694F82487EFC0C09B9B5E1AC2__ED212D2D101D0E82A314834820F7A11B89A67CA8.udd" 1996
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D4FAF0854B94DAB09F8872BDB3B280D__5F920652A3D8F3A6F9539AC8ECC94E0075504FDD.udd" 1997
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_FA1E34D14CC3822654B313BFE592408__8685DD5024908997CC884591DB1CA46DD900E18C.udd" 1998
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 1999
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 2000
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 2001
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_102F1D49408D2B96D0E7A887C80DF17__778BAC04DF396BB8C99AC639608966247A65CB88.udd" 2002
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_6BE49AB84B7FCF7D8B5D32B22F578A1__E3342F6B6731DD512F387F8C2562FA9ECEA1C800.udd" 2003
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_9CD801664B558065B9F13C9FF81EF0F__7F01D557EF3124792C2310196D73D26E9EF0776A.udd" 2004
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_DCC59205438F9E8CB492B8AB63372B4__733E55E56B205FB2796DAC612FD070D1710FA504.udd" 2005
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_B483E23C4DE6594CFE6078A3B9B36F4__417F92A3DC4D3F85F53C82C52BD2E0238848C7DB.udd" 2006
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 2007
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_9A09AC0348A0EB1AA60EB3A1ADAEAD6__9695C077AE31073FF4B804CC653AFF01E529F988.udd" 2008
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D46339D44D5130BC714000958480354__1D4A42B5BE61B4E9178EE39AE66D2615200A4DBC.udd" 2009
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_B2212F014BCFE2B850E2A392CC3F705__BA84025855CB6A5892EA04D65CAE1552B36DF66E.udd" 2010
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_EA7684824DB8E064DB9714A9EFA0DB5__9BBC2EF931F6AF154ECD66B100EC84BC0026C64A.udd" 2011
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_28E0D3284BF388D8CA2B72B1D872505__E9DA8581C74B89F6A4DBDE0A9EC566321549A3D0.udd" 2012
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_96DB287442B5E8F1BE4F3D9ADEB28E4__26223B35CCDEBB696AEF1002ABA74427128EC555.udd" 2013
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_702B60884CF920B498D3EE843AD311E__BEF608C963CF94F00A7E492B1E269BD55207C0BF.udd" 2014
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 2015
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 2016
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 2017
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 2018
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 2019
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 2020
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 2021
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 2022
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 2023
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 2024
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 2025
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 2026
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 2027
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 2028
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 2029
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 2030
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 2031
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 2032
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 2033
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 2034
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 2035
-"../../../Engine/Content/Maps/Entry.umap" 2036
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 2037
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 2038
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 2039
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 2040
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 2041
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 2042
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 2043
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 2044
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 2045
-"../../../../../UE4 projects/DogGame/Content/Assets/Sprites/S_Wrench.uasset" 2046
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Spanners.uasset" 2047
-"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_DadScared.uasset" 2048
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr10_Sprite.uasset" 2049
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr10.uasset" 2050
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr11_Sprite.uasset" 2051
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr11.uasset" 2052
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr12_Sprite.uasset" 2053
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr12.uasset" 2054
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr13_Sprite.uasset" 2055
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr13.uasset" 2056
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr14_Sprite.uasset" 2057
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr14.uasset" 2058
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr15_Sprite.uasset" 2059
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr15.uasset" 2060
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr2_Sprite.uasset" 2061
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr2.uasset" 2062
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr3_Sprite.uasset" 2063
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr3.uasset" 2064
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr4_Sprite.uasset" 2065
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr4.uasset" 2066
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr5_Sprite.uasset" 2067
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr5.uasset" 2068
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr6_Sprite.uasset" 2069
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr6.uasset" 2070
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr7_Sprite.uasset" 2071
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr7.uasset" 2072
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr8_Sprite.uasset" 2073
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr8.uasset" 2074
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr9_Sprite.uasset" 2075
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr9.uasset" 2076
-"../../../../../UE4 projects/DogGame/Content/Assets/Sprites/FB_Dad1.uasset" 2077
-"../../../../../UE4 projects/DogGame/Content/Assets/Sprites/S_Daddy1.uasset" 2078
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/daddytakeme.uasset" 2079
-"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_KidSitting.uasset" 2080
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/kidstiitng1_Sprite.uasset" 2081
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/kidstiitng1.uasset" 2082
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/kidstiitng2_Sprite.uasset" 2083
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/kidstiitng2.uasset" 2084
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/kidstiitng3_Sprite.uasset" 2085
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/kidstiitng3.uasset" 2086
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/kidstiitng4_Sprite.uasset" 2087
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/kidstiitng4.uasset" 2088
-"../../../../../UE4 projects/DogGame/Content/NewMap_BuiltData.uasset" 2089
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 2090
-"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/M_InteractableHighlight.uasset" 2091
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 2092
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/5/AUDIO_0005_0000_OGG_0002_5C4326074252DE0F927E5B9B53D66DEF.udd" 2093
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/0/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_234855A84AA9260EFE9715A5465CA9FD__1_0_0_0_2_13315_0.udd" 2094
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/6/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___CAAD633B29E20BF65A516DDDF25CFD666A05C6C3.udd" 2095
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 2096
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 2097
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_70358D5B45CA0B1FDAF64ABB0213CD8__912D0DADE470C91B0F9F541238E4A30DE1FED498.udd" 2098
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_CADC0698404E4E0990A2689086BC3AB__EA06AF19531A311A9AD141BE517E9EB1D91210AD.udd" 2099
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_6F0605C34D6715D951FB3E83FBFD91E__54FD0A72FC262B3D9B18D95B25386C896D66B6F2.udd" 2100
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_99BB76E34049EB8F3ECAB0818F8B006__D64A71ED6900A8DBF475779B4EF01163560FE5B4.udd" 2101
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_144543B54CA57DCE6A107E84491F6D4__BA43BF9977A1D71D441F6D587609421843FCD9FA.udd" 2102
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_B1967DD149DDED188D41A28B13AADE9__3293C20BE951A9441C1B5035AAF5C3166CFC0BD5.udd" 2103
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_A4A4240E4850C9D08FC623A8CEB91A5__B65E78C7985EE53A4411963660CC7201FD5B5C8D.udd" 2104
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_0BE9C7754AE167342697509EC3ED813__720167C7092B21E3ED4F15376D7163121E7A8FAD.udd" 2105
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_15B5DAAF4CD84BE8A5EE6F914CDF389__2FD59204FE6C1823F67CF72A92192866967CDA7A.udd" 2106
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_8F81E0E640417644AD7CFC8B91F3B6D__6142A0AA1DD13493B58017E0FA170275EBD62C67.udd" 2107
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_BE4428924EDC675C434927BBD4E164A__AEDDA2734F44D9A935D1B86B5941EB961F85D044.udd" 2108
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_697D411F48AC07FA370DE099E5B855E__7CA5AABB80D24091A3571151818D9954BCFFE1FC.udd" 2109
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_5B7A65A142A6820FD05D7B9E4BBBFBD__C253CAE6E402C9053E1C84714333039B06F085A6.udd" 2110
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_33CFD25E44469E5C8722BA8A39D4143__F67364958522C0641AFD19E64A7DF7BC92AF7DC9.udd" 2111
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_0626D4BD4E2D534E086E0380DCB019A__FA38702C31231799588EFDBB9E58DFA2E7CF9F9E.udd" 2112
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_5D081E01403FBA0666CCDD96DF42B4F__287EDB57E952BABA76595FAD65C1D720CB8D7EA0.udd" 2113
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_C0BEE37A4AEDC27583230BB8D538AC3__F3CBE78D786BEA85AD39056BAE50923F099B7CA0.udd" 2114
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_398FFB3C49DD854810A3A8BDC7D22E9__1C4278B0F54A8E39961A7C2BEC7A272D79555FE9.udd" 2115
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_3AACB7724C4F72DE0A5BECB804195CD__C95D3DAFBDC365373744D3F0F29555523078D799.udd" 2116
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D75665864D1A52F222DF048D381E530__1746F16AB67502F4DB90447F20B028B6CB950363.udd" 2117
-"../../../../../UE4 projects/DogGame/Content/TemporaryAssets/S_Nemo_Idle_2_Sprite.uasset" 2118
-"../../../../../UE4 projects/DogGame/Content/TemporaryAssets/Nemo_Idle_2.uasset" 2119
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_8AFCFC694138754954F371BE337BB86__9FD297DB04A9A5E3AFAA42C4AFEE13E85C62BAA2.udd" 2120
-"../../../../../UE4 projects/DogGame/Content/TemporaryAssets/FB_Nemo_Idle.uasset" 2121
-"../../../../../UE4 projects/DogGame/Content/Assets/Sprites/S_DogToy.uasset" 2122
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Duck_dogtoy.uasset" 2123
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_C4FD1A724BD1056FD517179CD242DC8__4E78B18C8882986B9C1BB723FF042916E0DC7270.udd" 2124
-"../../../../../UE4 projects/DogGame/Content/Assets/Sprites/S_Ball.uasset" 2125
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Ball.uasset" 2126
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_DACFAF9848DA1EE149E833960AA1758__691AB27D17494C74CD2AE7D192454BAA87E727C8.udd" 2127
-"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_GirlNotSad.uasset" 2128
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_notsad1_Sprite.uasset" 2129
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_notsad1.uasset" 2130
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_notsad2_Sprite.uasset" 2131
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_notsad2.uasset" 2132
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_notsad3_Sprite.uasset" 2133
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_notsad3.uasset" 2134
-"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_GirlSad.uasset" 2135
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad1_Sprite.uasset" 2136
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad1.uasset" 2137
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad2_Sprite.uasset" 2138
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad2.uasset" 2139
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad3_Sprite.uasset" 2140
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad3.uasset" 2141
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad4_Sprite.uasset" 2142
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad4.uasset" 2143
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad5_Sprite.uasset" 2144
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad5.uasset" 2145
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad6_Sprite.uasset" 2146
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad6.uasset" 2147
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad7_Sprite.uasset" 2148
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad7.uasset" 2149
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad8_Sprite.uasset" 2150
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad8.uasset" 2151
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_318FFCDB403746E4DBA14199B3F3C2C__450F44E451C5772A69D30A6720C8F68B30697CE3.udd" 2152
-"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_Dad2.uasset" 2153
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_utensad1_Sprite.uasset" 2154
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_utensad1.uasset" 2155
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_utensad2_Sprite.uasset" 2156
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_utensad2.uasset" 2157
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_utensad3_Sprite.uasset" 2158
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_utensad3.uasset" 2159
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_utensad4_Sprite.uasset" 2160
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_utensad4.uasset" 2161
-"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_SadDaddy2.uasset" 2162
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad1_Sprite.uasset" 2163
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad1.uasset" 2164
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad2_Sprite.uasset" 2165
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad2.uasset" 2166
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad3_Sprite.uasset" 2167
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad3.uasset" 2168
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad4_Sprite.uasset" 2169
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad4.uasset" 2170
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad5_Sprite.uasset" 2171
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad5.uasset" 2172
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad6_Sprite.uasset" 2173
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad6.uasset" 2174
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad7_Sprite.uasset" 2175
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad7.uasset" 2176
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad8_Sprite.uasset" 2177
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad8.uasset" 2178
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad9_Sprite.uasset" 2179
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad9.uasset" 2180
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_4201D7954FE5D179F5EA08840CC8308__45BEA26DF3B3E3FC0D00324B283DA94ECED3E7FB.udd" 2181
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_F0A2A8E840EA649B52381C990AC2041__C5BD5A7D73473B3FAEABFF05B849511A44322069.udd" 2182
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_E1682EF24D3934D46D70DD9DB954A79__5891F8891BE1981C988CD09C79753D001EB1AA49.udd" 2183
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_69CF3F984A4FC97FD1606497D478509__F112E1F3F3289EC2357467C81672A4210AC990E6.udd" 2184
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_9479570F4A874B8C536EA9BD93C9FE7__67544B4BB87BC43078DE4D758B008851611C8115.udd" 2185
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_7DB9FCED46661234EB67C7B3CE08EED__00F69B7952FFC5529178ECD3BD1F225DF6C839FE.udd" 2186
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_79AFA3DF4DFCE9AD9F63CF822DA66A5__E918908D019C969F3CACCB5EAC65A391B7CAFE68.udd" 2187
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_1651F3D645638CD9B1F4B3A87B8F713__73820BA83A9C0DCF8D7B046CDA2E1F0966056601.udd" 2188
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_A91A10E648049F24EAC32FB3276D35E__9910D321F35143E510A31F9BD998EAF6E07BA30F.udd" 2189
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_585DE69F4D7808AF95C015B3E8DC981__B78E05793C3C6B2CDDF1A800D12622406B63DD00.udd" 2190
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D8AF07664944767F3899698B904AEF0__04F59A14A2D070E28EF444714294471E19284048.udd" 2191
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D515B8AE458E620A24C409A40C7C5B3__E267F589333F28C120F32C5296EFB5A479969103.udd" 2192
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_1C33CB8444D7D0C39FABD2B00AA28E9__B922BD37E8D69F212CA92428018B5DDD10092490.udd" 2193
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_ECA64445433DA571E50003B19749926__D8C631E130C9A3F239A91897E5F0465130224A7D.udd" 2194
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_06E2F47F4075A586C6CFC893F1617BC__383038A90F3A49540B54F09D8EC9635F683B9ADB.udd" 2195
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_712633664CD97D28BE599898DADEACA__01AA39255155E06905DF8873638263192740365A.udd" 2196
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_320B31AD4C0297C97F0840BE7CAC41E__B9FC91A7D8E46C949DFD1FF148CA45C78E35FBD3.udd" 2197
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_9186A7FA41B6C8F679E681B475C3417__61D35629F8EBFF45CA6180071FC9D9DE6D2ECBE3.udd" 2198
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_C00A08FA44694FD82AC344A982FAAA4__527D3F958DE544636A22880480AA8EFA0D59D26C.udd" 2199
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_8E1F508D4E0BB94EBD986C8377E50B7__43704134EEE4FD819D25497B150F7B125EA34978.udd" 2200
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_7FDCCA1049F518694C0DD4A460CB3A8__1DFCF808274385426C97449C629C53FC9E15B821.udd" 2201
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_96A315814264734E297182B06C0B8CE__A8D2ECCF7B029340E03DA305EA9656386319C9D1.udd" 2202
-"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/S_fuckthisshitiwannadie_Sprite.uasset" 2203
-"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/fuckthisshitiwannadie.uasset" 2204
-"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/S_GarageUpdate.uasset" 2205
-"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 2206
-"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/gargagnewremadexde.uasset" 2207
-"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/S_Misc_Sky-Backdrop_Sprite.uasset" 2208
-"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/Misc_Sky-Backdrop.uasset" 2209
-"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/S_Scene1.uasset" 2210
-"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/Scene_Street.uasset" 2211
-"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/S_Scene2.uasset" 2212
-"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/Scene_House.uasset" 2213
-"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/Scene_PorchBackyard_Sprite.uasset" 2214
-"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/Scene_PorchBackyard.uasset" 2215
-"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/Scene_TreeBackyard_Sprite.uasset" 2216
-"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/Scene_TreeBackyard.uasset" 2217
-"../../../../../UE4 projects/DogGame/Content/Assets/Sprites/S_Box.uasset" 2218
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/box.uasset" 2219
-"../../../../../UE4 projects/DogGame/Content/Assets/Sprites/S_BoxBG.uasset" 2220
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/box_back.uasset" 2221
-"../../../../../UE4 projects/DogGame/Content/Assets/Sprites/S_Cone.uasset" 2222
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/coner.uasset" 2223
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/2/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_26CBB6E64495402E432E2ABE47825290__1_0_0_0_2_13315_0.udd" 2224
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/4/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_A9AEA22D42EF6F799991F6A2B70706AC__1_0_0_0_2_13315_0.udd" 2225
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/4/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_1029A9FB4E2AD5859AA4BD911B65D97E__1_0_0_0_2_13315_0.udd" 2226
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_654DF13041C6312AF69AEEB3687F21E5__1_0_0_0_2_13315_0.udd" 2227
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/6/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_E4C100924DF3667F1E4EAAB5BD93D39F__1_0_0_0_2_13315_0.udd" 2228
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/4/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_B848495F4DDF299CC6E66DA22DD5C49C__1_0_0_0_2_13315_0.udd" 2229
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/7/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_C2BD107144BFD5D8BEF93BBCA677FA10__1_0_0_0_2_13315_0.udd" 2230
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/5/AUDIO_0005_0000_OGG_0002_BACE601540887889E91D359D1976BE32.udd" 2231
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/5/AUDIO_0005_0000_OGG_0002_DEDE671D4870A38355C37AB209180DAC.udd" 2232
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/8/AUDIO_0005_0000_OGG_0002_BBDE1FE4406B114ACF427D9BCDDEA8E9.udd" 2233
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_3017C0CF4CB3DAFC136ADAABDD88E70__E197F83FF94425AD14948929A0E5408452BE15A0.udd" 2234
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_25837A184F80FCFBA5666A8DBB92B4D__93AA55F16BC66977D8EC1254AE41BCE27CF082ED.udd" 2235
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_C4EEBEDD4C50FB99347839BDAAF9B5B__6702F909381EEE02DC80A0118BEABB3753D4F538.udd" 2236
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_F848EC114993997FE2F82EAF49BC30E__4429C36FAEDA5D96D29BE75694D469CBC2185B48.udd" 2237
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_A7FC77FB4DADF3CDB6235693DB9B8FF__D9A79B24182F32C362699597BEA64D6B7A6BBB9A.udd" 2238
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_ABC63C4F4A944D3E9D1F3B94F01962F__0DA9A3FD456AFBDAFCFF3D1CBBDEE07E6C442B13.udd" 2239
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_DEAD45E34B745FA1726409B937576CB__AA2325654209899B4BC565BDD0DAC0B85AF2B026.udd" 2240
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_7D4770D44E06C46F07699A94B2CE5B3__3785B66DFB0DB6D517CFB12CFE8724A97858920F.udd" 2241
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_45A870B441208A9113773FA6CEB3E77__E55F9D23010C4289C8C9EB4C437FD02A19CC092D.udd" 2242
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_40846E094E1B005660000AB6A0E7507__3BA6E6B287E955D786ED28374C4A5968DC8811AD.udd" 2243
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_81826ACB421D0C6762085E828A31FF3__AF52D4090B193802F8A1983F95F79C3C118EC3EE.udd" 2244
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_90098F294183913C60B18DA3999415D__C99D6709C412367450EB95BD98B9710D48A8EE37.udd" 2245
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_B11BEB514ED3F1F41D9BCF8C2D31FB2__1C3B52F42A133DC0C10A2D481F3B8F7F21C309B1.udd" 2246
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 2247
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_stillsad4_Sprite.uasset" 2248
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_stillsad4.uasset" 2249
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D32D4CCB4A1DDE5DF5B1E8A8C67A0DA__0B751C71051FB2CDB27DAB2A516C30038550F152.udd" 2250
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_stillsad3_Sprite.uasset" 2251
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_stillsad3.uasset" 2252
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_BA7697CA493CC1075FFF2B96E2AD3EE__9D99EAA8268E815734F675484588715F65351543.udd" 2253
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_stillsad2_Sprite.uasset" 2254
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_stillsad2.uasset" 2255
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_46B2C4514FB019A35664479BB342EE8__10A7DA817329EF44A107DE4127290C00943AC454.udd" 2256
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_stillsad1_Sprite.uasset" 2257
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_stillsad1.uasset" 2258
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_B731E11D4C20523E254691A73680F72__27B491D6F174A38C57E091B040B28184907C19D9.udd" 2259
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_Pickup2_Sprite.uasset" 2260
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_Pickup2.uasset" 2261
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_00D7CF4642DE04956E977BB03003390__6A971E760DEE4F9982A886B325AB973E524DFDCD.udd" 2262
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_happy_pickup2_Sprite.uasset" 2263
-"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_happy_pickup2.uasset" 2264
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D82586BE46C261300E4A31943D0EDE5__738865DFF89D099A7088F7B50833922ED8EB592E.udd" 2265
-"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_SadDogPickup.uasset" 2266
-"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_GirlStillSad.uasset" 2267
-"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_DogPickup.uasset" 2268
-"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/S_Garage.uasset" 2269
-"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/gargage.uasset" 2270
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_7E0B3732414B1AA20B339D9D7C6619D__7D78EFCFECAFA2952742EB9ED29485C27DDE03A0.udd" 2271
-"../../../../../UE4 projects/DogGame/Content/Garage_BuiltData.uasset" 2272
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_569362C74D78A4C7CB9985AEEBCA2__F73263A146726C16665A388A56A824E447BF6CE9.udd" 2273
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E478B61C493755205A5216BECC9DD__3AF42EC3723B8C87C39415CCDDF45DF1B302657C.udd" 2274
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_569362C74D78A4C7CB9985AEEBCA2__AD2AD36176C72D24D4ACEDEDD5001FFCA8725FFA.udd" 2275
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_AAE2A25B470CAD4086ABD9A0E108809C__47BFF17584511EA79AAA3556A8F4C67FD480A1F5.udd" 2276
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_569362C74D78A4C7CB9985AEEBCA2__1B279420A7567185F4FD71C5DD8435B79439B98C.udd" 2277
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_AAE2A25B470CAD4086ABD9A0E108809C__141F285814A9CBACBAA03F3D8CCD27AE5735F555.udd" 2278
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_AAE2A25B470CAD4086ABD9A0E108809C__1920B0B89C5988E2973D91A2A151E255B6EDCB94.udd" 2279
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_AAE2A25B470CAD4086ABD9A0E108809C__EC2DDD5828F5AD62B1E0346073A5EDFF3337B5CD.udd" 2280
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_569362C74D78A4C7CB9985AEEBCA2__33624D4F483D4337B2508F27AD5AA43F5EC5C95D.udd" 2281
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_5495CC4041A88FF7DD5758AA3EEE7BBA__01BC92C36544873CB06C683406D39D8B7AAD283C.udd" 2282
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_83E3135F489D6296CDD502B323782E72_0__4A34CE9E2FDF0557ECE322FED63B4FA27FDA28B6.udd" 2283
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_ECD7337B47C4A5CCE9A3C0A435FB8D32_0__56A9F9266EFC0A1E1A2D87D624F6D1FE208E6410.udd" 2284
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_83E3135F489D6296CDD502B323782E72_0__B69255DB10E6CAC50EF5FD487E0984C9599D0DB8.udd" 2285
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_83E3135F489D6296CDD502B323782E72_0__6E82C975C0B7406874C9BCF922EE2A2A4C75FE23.udd" 2286
-"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_83E3135F489D6296CDD502B323782E72_0__57121076747E0FD11BD82FE057360C7124B5BD72.udd" 2287
+"../../../../../UE4 projects/DogGame/Content/Blueprints/BP_Collision.uasset" 1790
+"../../../../../UE4 projects/DogGame/Content/Blueprints/BP_Floor.uasset" 1791
+"../../../../../UE4 projects/DogGame/Content/Blueprints/BP_GameMode.uasset" 1792
+"../../../../../UE4 projects/DogGame/Content/Blueprints/BlueprintInterfaces/BPI_Interact.uasset" 1793
+"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/BP_BaseInteractable.uasset" 1794
+"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/BP_BaseItem.uasset" 1795
+"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/BP_Dad1.uasset" 1796
+"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/BP_Dad1Wrench.uasset" 1797
+"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/BP_Dad2.uasset" 1798
+"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/BP_Daughter.uasset" 1799
+"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/BP_Plum.uasset" 1800
+"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/BP_RacoonDad.uasset" 1801
+"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/BP_RubberDucky.uasset" 1802
+"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/BP_Son.uasset" 1803
+"../../../../../UE4 projects/DogGame/Content/ENDING/LevelDesign/GM_Ending.uasset" 1804
+"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game.uasset" 1805
+"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_LevelBP.uasset" 1806
+"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Pawn.uasset" 1807
+"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary.uasset" 1808
+"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureMacros.uasset" 1809
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 1810
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 1811
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1812
+"../../../Engine/Content/FunctionalTesting/Blueprints/AITesting_MoveGoal.uasset" 1813
+"../../../Engine/Content/Sequencer/DefaultBurnInOptions.uasset" 1814
+"../../../Engine/Content/Tutorial/Basics/ContentBrowserOverview.uasset" 1815
+"../../../Engine/Content/Tutorial/Basics/FeaturePacks.uasset" 1816
+"../../../Engine/Content/Tutorial/Basics/ViewportsTutorial.uasset" 1817
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 1818
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 1819
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 1820
+"../../../Engine/Content/Tutorial/BlueprintTutorials/ClassBlueprintsEditorOverview.uasset" 1821
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Class.uasset" 1822
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 1823
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 1824
+"../../../Engine/Content/Tutorial/Code/AddingCode.uasset" 1825
+"../../../Engine/Content/Tutorial/Foliage/FoliageWalkThrough.uasset" 1826
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 1827
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 1828
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 1829
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 1830
+"../../../Engine/Content/Tutorial/Installation/InstallingXCodeTutorial.uasset" 1831
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial.uasset" 1832
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part2.uasset" 1833
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part3.uasset" 1834
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.uasset" 1835
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge1.uasset" 1836
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge2.uasset" 1837
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 1838
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 1839
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 1840
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 1841
+"../../../Engine/Content/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.uasset" 1842
+"../../../Engine/Content/Tutorial/Mobile/InstallingiTunesTutorial.uasset" 1843
+"../../../Engine/Content/Tutorial/Mobile/SettingUpAndroidTutorial.uasset" 1844
+"../../../Engine/Content/Tutorial/Mobile/SettingUpLuminTutorial.uasset" 1845
+"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 1846
+"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 1847
+"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 1848
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 1849
+"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 1850
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 1851
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.uasset" 1852
+"../../../Engine/Content/Tutorial/SubEditors/PersonaWalkthrough.uasset" 1853
+"../../../Engine/Content/Tutorial/SubEditors/SkeletalMeshEditorWalkthrough.uasset" 1854
+"../../../Engine/Content/Tutorial/SubEditors/SkeletonModeWalkthrough.uasset" 1855
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 1856
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 1857
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_AnimatedNode.uasset" 1858
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Animation.uasset" 1859
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 1860
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 1861
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SharedNode.uasset" 1862
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 1863
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Toggle.uasset" 1864
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimatedNode.uasset" 1865
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimation.uasset" 1866
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimNode.uasset" 1867
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 1868
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/BP_AnimationPlayer.uasset" 1869
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/ImportedSequencesHelper.uasset" 1870
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationPlayer.uasset" 1871
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/BP_VariantSelector.uasset" 1872
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantsSelector.uasset" 1873
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithActor.uasset" 1874
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithAreaLight.uasset" 1875
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithArealightMesh.uasset" 1876
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithLayer.uasset" 1877
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithSelector.uasset" 1878
+"../../../../../UE4 projects/DogGame/Content/Blueprints/WBP_StartMenu.uasset" 1879
+"../../../../../UE4 projects/DogGame/Content/ENDING/LevelDesign/W_End.uasset" 1880
+"../../../Engine/Content/Sequencer/DefaultBurnIn.uasset" 1881
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/AnimationSampleUI.uasset" 1882
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/VREDAnimationSampleUI.uasset" 1883
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/VREDVariantSampleUI.uasset" 1884
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialAnimationBlueprint.uasset" 1885
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 1886
+"../../../Engine/Config//BaseEngine.ini" 1887
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 1888
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 1889
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1890
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1891
+"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/F_InteractableVariables.uasset" 1892
+"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/F_ItemInfo.uasset" 1893
+"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/E_ItemType.uasset" 1894
+"../../../../../UE4 projects/DogGame/Content/TemporaryAssets/S_Nemo_Idle_1_Sprite.uasset" 1895
+"../../../../../UE4 projects/DogGame/Content/TemporaryAssets/Nemo_Idle_1.uasset" 1896
+"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_SadDogIdle.uasset" 1897
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_Idle1_Sprite.uasset" 1898
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_Idle1.uasset" 1899
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_Idle2_Sprite.uasset" 1900
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_Idle2.uasset" 1901
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_Idle3_Sprite.uasset" 1902
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_Idle3.uasset" 1903
+"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_RacoonIdle.uasset" 1904
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Idle1_Sprite.uasset" 1905
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Idle1.uasset" 1906
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Idle2_Sprite.uasset" 1907
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Idle2.uasset" 1908
+"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_RacoonRun.uasset" 1909
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Run1_Sprite.uasset" 1910
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Run1.uasset" 1911
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Run2_Sprite.uasset" 1912
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Run2.uasset" 1913
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Run3_Sprite.uasset" 1914
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Run3.uasset" 1915
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Run4_Sprite.uasset" 1916
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Racoon_Run4.uasset" 1917
+"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_DogBark.uasset" 1918
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Bark2_Sprite.uasset" 1919
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Bark2.uasset" 1920
+"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_DogFall.uasset" 1921
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Jumputensad2_Sprite.uasset" 1922
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Jumputensad2.uasset" 1923
+"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_DogIdle.uasset" 1924
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_tailwag1_Sprite.uasset" 1925
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_tailwag1.uasset" 1926
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_tailwag2_Sprite.uasset" 1927
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_tailwag2.uasset" 1928
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_tailwag3_Sprite.uasset" 1929
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_tailwag3.uasset" 1930
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_tailwag4_Sprite.uasset" 1931
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_tailwag4.uasset" 1932
+"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_DogJump.uasset" 1933
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Jumputensad1_Sprite.uasset" 1934
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Jumputensad1.uasset" 1935
+"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_DogWalk.uasset" 1936
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_walking1_Sprite.uasset" 1937
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_walking1.uasset" 1938
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_walking2_Sprite.uasset" 1939
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_walking2.uasset" 1940
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_walking3_Sprite.uasset" 1941
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_walking3.uasset" 1942
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_walking4_Sprite.uasset" 1943
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_walking4.uasset" 1944
+"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_SadDogBark.uasset" 1945
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_bark2_Sprite.uasset" 1946
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_bark2.uasset" 1947
+"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_SadDogFall.uasset" 1948
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Jump2_Sprite.uasset" 1949
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Jump2.uasset" 1950
+"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_SadDogJump.uasset" 1951
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Jump1_Sprite.uasset" 1952
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Jump1.uasset" 1953
+"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_SadDogWalk.uasset" 1954
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_walking1_Sprite.uasset" 1955
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_walking1.uasset" 1956
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_walking2_Sprite.uasset" 1957
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_walking2.uasset" 1958
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_walking3_Sprite.uasset" 1959
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_walking3.uasset" 1960
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_walking4_Sprite.uasset" 1961
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_walking4.uasset" 1962
+"../../../../../UE4 projects/DogGame/Content/Assets/Sound/Dog_Bark.uasset" 1963
+"../../../../../UE4 projects/DogGame/Content/Assets/Sound/Raccoon_Scream.uasset" 1964
+"../../../../../UE4 projects/DogGame/Content/Assets/Sound/SC_dog_theme_for_jan_and_the_gang_that_doesnt_have_a_proper_composer_so_I_have_to_do_this_b.uasset" 1965
+"../../../../../UE4 projects/DogGame/Content/Assets/Sound/dog_theme_for_jan_and_the_gang_that_doesnt_have_a_proper_composer_so_I_have_to_do_this_but_its_fun_so_I_dont_mind.uasset" 1966
+"../../../../../UE4 projects/DogGame/Content/Assets/Sound/SC_WalkInside.uasset" 1967
+"../../../../../UE4 projects/DogGame/Content/Assets/Sound/Dog_Walk_inside1.uasset" 1968
+"../../../../../UE4 projects/DogGame/Content/Assets/Sound/Dog_Walk_inside2.uasset" 1969
+"../../../../../UE4 projects/DogGame/Content/Assets/Sound/Dog_Walk_deep.uasset" 1970
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/0/AUDIO_0005_0000_OGG_0002_B2614CDD4A7E9CE6C68154A2BDD249A6.udd" 1971
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/9/AUDIO_0005_0000_OGG_0002_563D75114F4B55DC8E6D2AB34FE26DEE.udd" 1972
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/8/AUDIO_0005_0000_OGG_0002_D2F96C594107C03304EC9EB3FD71C730.udd" 1973
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/4/AUDIO_0005_0000_OGG_0002_793C2E1A44140B35B10AD388FC4C5DF9.udd" 1974
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/5/AUDIO_0005_0000_OGG_0002_7D8994CF41245D15EB7C86B759613C26.udd" 1975
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/9/AUDIO_0005_0000_OGG_0002_DC6642BD4037A5FE04994D85D08F6989.udd" 1976
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_941A32944CDF5CB1EE1E3C8D696F7CE__AA66FC82F42F48922C19E38CFDED0725B2780EEC.udd" 1977
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_71256F304108BA1722D96F830A8546B__BF0A22CD88B47FE47ED455DC34FC5839B875C456.udd" 1978
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_8BFC525449F0ADE4551A569B79CFB42__9966C6046D1083BD91C03E4B426DBF563B91BC89.udd" 1979
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_2F671D414847FEC2340EE2972DB6AAA__AC3648776AC18C067B6A3BD49A68BFABA293CF7D.udd" 1980
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_55334EFE4851B3CF0FB372BC6518DA5__5DE42458FA0CB83991BBBA41E2873513E1C6DC71.udd" 1981
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_0F067DAD47C26BC9198CA7A53E8B6FC__BB186E8DED069D58BE14D5BFA6435ED177E2FC5C.udd" 1982
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_1C5937FF4B9269648080448DC8F4EF8__96BFAC62A7817C0F7A93356394594A6C1625EA13.udd" 1983
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_17B8C3884076F127E2458DBE617F358__7F562A4D01902B4CE1B08FF6608BABA82DAC0737.udd" 1984
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_B178D6B04F2036CD0E093CB66132450__407E1356E3D4FA04A74FB549BACAB2A2CC706955.udd" 1985
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_A06F3037448F3E96081BCAB010B647C__DFE260F4BE107EA3D75710B807404F250D67B7EA.udd" 1986
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_A4C69DD148D3EA81710FBFA4EBC0E51__426C406921DF3891DA04DC10B61401483621DF0C.udd" 1987
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D2C56D034E95E81C2B870F94F52A34D__5ED19635ADFE7EAEA564A6E5393452B40CCB57A0.udd" 1988
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_EC6318A8419428C0C9F71DA2A110BB4__3E13DE89860775E23143F639B9564507FEBB796C.udd" 1989
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_DBD6BD694F82487EFC0C09B9B5E1AC2__ED212D2D101D0E82A314834820F7A11B89A67CA8.udd" 1990
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D4FAF0854B94DAB09F8872BDB3B280D__5F920652A3D8F3A6F9539AC8ECC94E0075504FDD.udd" 1991
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_FA1E34D14CC3822654B313BFE592408__8685DD5024908997CC884591DB1CA46DD900E18C.udd" 1992
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 1993
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 1994
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 1995
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_102F1D49408D2B96D0E7A887C80DF17__778BAC04DF396BB8C99AC639608966247A65CB88.udd" 1996
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_6BE49AB84B7FCF7D8B5D32B22F578A1__E3342F6B6731DD512F387F8C2562FA9ECEA1C800.udd" 1997
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_9CD801664B558065B9F13C9FF81EF0F__7F01D557EF3124792C2310196D73D26E9EF0776A.udd" 1998
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_DCC59205438F9E8CB492B8AB63372B4__733E55E56B205FB2796DAC612FD070D1710FA504.udd" 1999
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_B483E23C4DE6594CFE6078A3B9B36F4__417F92A3DC4D3F85F53C82C52BD2E0238848C7DB.udd" 2000
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 2001
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_9A09AC0348A0EB1AA60EB3A1ADAEAD6__9695C077AE31073FF4B804CC653AFF01E529F988.udd" 2002
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D46339D44D5130BC714000958480354__1D4A42B5BE61B4E9178EE39AE66D2615200A4DBC.udd" 2003
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_B2212F014BCFE2B850E2A392CC3F705__BA84025855CB6A5892EA04D65CAE1552B36DF66E.udd" 2004
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_EA7684824DB8E064DB9714A9EFA0DB5__9BBC2EF931F6AF154ECD66B100EC84BC0026C64A.udd" 2005
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_28E0D3284BF388D8CA2B72B1D872505__E9DA8581C74B89F6A4DBDE0A9EC566321549A3D0.udd" 2006
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_96DB287442B5E8F1BE4F3D9ADEB28E4__26223B35CCDEBB696AEF1002ABA74427128EC555.udd" 2007
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_702B60884CF920B498D3EE843AD311E__BEF608C963CF94F00A7E492B1E269BD55207C0BF.udd" 2008
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 2009
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 2010
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 2011
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 2012
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 2013
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 2014
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 2015
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 2016
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 2017
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 2018
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 2019
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 2020
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 2021
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 2022
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 2023
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 2024
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 2025
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 2026
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 2027
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 2028
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 2029
+"../../../Engine/Content/Maps/Entry.umap" 2030
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 2031
+"../../../../../UE4 projects/DogGame/Content/Assets/Ending/credits.uasset" 2032
+"../../../../../UE4 projects/DogGame/Content/Assets/Ending/endcutscene3_1.uasset" 2033
+"../../../../../UE4 projects/DogGame/Content/Assets/Ending/endcutscene_part2.uasset" 2034
+"../../../../../UE4 projects/DogGame/Content/Assets/Ending/endcutsceneone_part5.uasset" 2035
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6DEE98FE4B2256CC922CF7835CFAB__609D5827CF6C20243D40F8DE00BCC8DB44E38DF9.udd" 2036
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C6555D374E71A583E303A49C32943__B6A7D2B9BE8063471AFC45EB4BCE3104C6948469.udd" 2037
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_AD20AC484229F3AE4C3CFAA07F5C1__65C13E86A484C4980C5DC71118F6AFC7237752FB.udd" 2038
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_75D0018944472A02AEB61A8948BBB__8561B50E6CD30D7EAE833ACCA243ABCE354447A3.udd" 2039
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 2040
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 2041
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 2042
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 2043
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 2044
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 2045
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 2046
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 2047
+"../../../../../UE4 projects/DogGame/Content/Assets/Sprites/S_Wrench.uasset" 2048
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Spanners.uasset" 2049
+"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_DadScared.uasset" 2050
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr10_Sprite.uasset" 2051
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr10.uasset" 2052
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr11_Sprite.uasset" 2053
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr11.uasset" 2054
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr12_Sprite.uasset" 2055
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr12.uasset" 2056
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr13_Sprite.uasset" 2057
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr13.uasset" 2058
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr14_Sprite.uasset" 2059
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr14.uasset" 2060
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr15_Sprite.uasset" 2061
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr15.uasset" 2062
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr2_Sprite.uasset" 2063
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr2.uasset" 2064
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr3_Sprite.uasset" 2065
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr3.uasset" 2066
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr4_Sprite.uasset" 2067
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr4.uasset" 2068
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr5_Sprite.uasset" 2069
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr5.uasset" 2070
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr6_Sprite.uasset" 2071
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr6.uasset" 2072
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr7_Sprite.uasset" 2073
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr7.uasset" 2074
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr8_Sprite.uasset" 2075
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr8.uasset" 2076
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr9_Sprite.uasset" 2077
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dedfallremadenewnewmark2secondorthirdremakenewnewnr9.uasset" 2078
+"../../../../../UE4 projects/DogGame/Content/Assets/Sound/Possible_dad1_sound2.uasset" 2079
+"../../../../../UE4 projects/DogGame/Content/Assets/Sound/Wrench.uasset" 2080
+"../../../../../UE4 projects/DogGame/Content/Assets/Sprites/FB_Dad1.uasset" 2081
+"../../../../../UE4 projects/DogGame/Content/Assets/Sprites/S_Daddy1.uasset" 2082
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/daddytakeme.uasset" 2083
+"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_KidSitting.uasset" 2084
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/kidstiitng1_Sprite.uasset" 2085
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/kidstiitng1.uasset" 2086
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/kidstiitng2_Sprite.uasset" 2087
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/kidstiitng2.uasset" 2088
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/kidstiitng3_Sprite.uasset" 2089
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/kidstiitng3.uasset" 2090
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/kidstiitng4_Sprite.uasset" 2091
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/kidstiitng4.uasset" 2092
+"../../../../../UE4 projects/DogGame/Content/NewMap_BuiltData.uasset" 2093
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 2094
+"../../../../../UE4 projects/DogGame/Content/Blueprints/Interactables/M_InteractableHighlight.uasset" 2095
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 2096
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/0/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_234855A84AA9260EFE9715A5465CA9FD__1_0_0_0_2_13315_0.udd" 2097
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/5/AUDIO_0005_0000_OGG_0002_5C4326074252DE0F927E5B9B53D66DEF.udd" 2098
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/4/AUDIO_0005_0000_OGG_0002_95D80D0742812C3714565E8369E773F5.udd" 2099
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_697D411F48AC07FA370DE099E5B855E__7CA5AABB80D24091A3571151818D9954BCFFE1FC.udd" 2100
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 2101
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 2102
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/6/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___CAAD633B29E20BF65A516DDDF25CFD666A05C6C3.udd" 2103
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_70358D5B45CA0B1FDAF64ABB0213CD8__912D0DADE470C91B0F9F541238E4A30DE1FED498.udd" 2104
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_5B7A65A142A6820FD05D7B9E4BBBFBD__C253CAE6E402C9053E1C84714333039B06F085A6.udd" 2105
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_CADC0698404E4E0990A2689086BC3AB__EA06AF19531A311A9AD141BE517E9EB1D91210AD.udd" 2106
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_99BB76E34049EB8F3ECAB0818F8B006__D64A71ED6900A8DBF475779B4EF01163560FE5B4.udd" 2107
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_144543B54CA57DCE6A107E84491F6D4__BA43BF9977A1D71D441F6D587609421843FCD9FA.udd" 2108
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_B1967DD149DDED188D41A28B13AADE9__3293C20BE951A9441C1B5035AAF5C3166CFC0BD5.udd" 2109
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Button_exit_Sprite.uasset" 2110
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Button_exit.uasset" 2111
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Button_Start_Sprite.uasset" 2112
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Button_Start.uasset" 2113
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/thetitleismadeofmydreamsandhopes_Sprite.uasset" 2114
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/thetitleismadeofmydreamsandhopes.uasset" 2115
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_05FF551148F618BA225262B5D4B3BC2__73ED64C417C03D4326E41A0773FF8A0C6D8171D5.udd" 2116
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_041B359C407964F544974DB6B94E079__7AED9E666C57FE0755A65EFFDE3657BA98780BCD.udd" 2117
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_8019E82F4D9AC015D28C68979CEA05F__35BEA989A94E8141B2B78DEB7AEB5F16CE522489.udd" 2118
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_A4A4240E4850C9D08FC623A8CEB91A5__B65E78C7985EE53A4411963660CC7201FD5B5C8D.udd" 2119
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_0BE9C7754AE167342697509EC3ED813__720167C7092B21E3ED4F15376D7163121E7A8FAD.udd" 2120
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_15B5DAAF4CD84BE8A5EE6F914CDF389__2FD59204FE6C1823F67CF72A92192866967CDA7A.udd" 2121
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_8F81E0E640417644AD7CFC8B91F3B6D__6142A0AA1DD13493B58017E0FA170275EBD62C67.udd" 2122
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_BE4428924EDC675C434927BBD4E164A__AEDDA2734F44D9A935D1B86B5941EB961F85D044.udd" 2123
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D75665864D1A52F222DF048D381E530__1746F16AB67502F4DB90447F20B028B6CB950363.udd" 2124
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_6F0605C34D6715D951FB3E83FBFD91E__54FD0A72FC262B3D9B18D95B25386C896D66B6F2.udd" 2125
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_33CFD25E44469E5C8722BA8A39D4143__F67364958522C0641AFD19E64A7DF7BC92AF7DC9.udd" 2126
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_0626D4BD4E2D534E086E0380DCB019A__FA38702C31231799588EFDBB9E58DFA2E7CF9F9E.udd" 2127
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_5D081E01403FBA0666CCDD96DF42B4F__287EDB57E952BABA76595FAD65C1D720CB8D7EA0.udd" 2128
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_C0BEE37A4AEDC27583230BB8D538AC3__F3CBE78D786BEA85AD39056BAE50923F099B7CA0.udd" 2129
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_398FFB3C49DD854810A3A8BDC7D22E9__1C4278B0F54A8E39961A7C2BEC7A272D79555FE9.udd" 2130
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_3AACB7724C4F72DE0A5BECB804195CD__C95D3DAFBDC365373744D3F0F29555523078D799.udd" 2131
+"../../../../../UE4 projects/DogGame/Content/TemporaryAssets/S_Nemo_Idle_2_Sprite.uasset" 2132
+"../../../../../UE4 projects/DogGame/Content/TemporaryAssets/Nemo_Idle_2.uasset" 2133
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_8AFCFC694138754954F371BE337BB86__9FD297DB04A9A5E3AFAA42C4AFEE13E85C62BAA2.udd" 2134
+"../../../../../UE4 projects/DogGame/Content/TemporaryAssets/FB_Nemo_Idle.uasset" 2135
+"../../../../../UE4 projects/DogGame/Content/ENDING/LevelDesign/EndImages/thetitleismadeofmydreamsandhopes.uasset" 2136
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_7B8457EF4AB67C720AEB7B986A326D77___259BFB14D8830B5CA20600C72FF69B8CB31F6CDC.udd" 2137
+"../../../../../UE4 projects/DogGame/Content/ENDING/LevelDesign/EndImages/endcutscene_part2.uasset" 2138
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_27F375AA467B967C5A26F88BA2708__975A054FA687CB0D1D8D46DCE7AC2B9ED0070C55.udd" 2139
+"../../../../../UE4 projects/DogGame/Content/ENDING/LevelDesign/EndImages/endcutsceneone_part5.uasset" 2140
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_F9FF128E488D1AE2AB7EC6BB3FD9E__10DD3F456FF58487F80786DF77F4C605AAA40A0D.udd" 2141
+"../../../../../UE4 projects/DogGame/Content/ENDING/LevelDesign/EndImages/endcutscene3_1.uasset" 2142
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_77B638B449B090469DE9B4B89B81D__5DEE4DDAD5D81689A7838513EB6DE9E49DD4E6E1.udd" 2143
+"../../../../../UE4 projects/DogGame/Content/ENDING/LevelDesign/EndImages/credits.uasset" 2144
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1A492576420CAB307CF4BDA4B7C39__4A9E962C640879A218A9639AFE91FF3A10314CF5.udd" 2145
+"../../../../../UE4 projects/DogGame/Content/ENDING/LevelDesign/2DSideScrollerGameMode.uasset" 2146
+"../../../../../UE4 projects/DogGame/Content/Assets/Sprites/S_DogToy.uasset" 2147
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Duck_dogtoy.uasset" 2148
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_C4FD1A724BD1056FD517179CD242DC8__4E78B18C8882986B9C1BB723FF042916E0DC7270.udd" 2149
+"../../../../../UE4 projects/DogGame/Content/Assets/Sprites/S_Ball.uasset" 2150
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Ball.uasset" 2151
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_DACFAF9848DA1EE149E833960AA1758__691AB27D17494C74CD2AE7D192454BAA87E727C8.udd" 2152
+"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_GirlNotSad.uasset" 2153
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_notsad1_Sprite.uasset" 2154
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_notsad1.uasset" 2155
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_notsad2_Sprite.uasset" 2156
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_notsad2.uasset" 2157
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_notsad3_Sprite.uasset" 2158
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_notsad3.uasset" 2159
+"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_GirlSad.uasset" 2160
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad1_Sprite.uasset" 2161
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad1.uasset" 2162
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad2_Sprite.uasset" 2163
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad2.uasset" 2164
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad3_Sprite.uasset" 2165
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad3.uasset" 2166
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad4_Sprite.uasset" 2167
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad4.uasset" 2168
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad5_Sprite.uasset" 2169
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad5.uasset" 2170
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad6_Sprite.uasset" 2171
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad6.uasset" 2172
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad7_Sprite.uasset" 2173
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad7.uasset" 2174
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad8_Sprite.uasset" 2175
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_medsad8.uasset" 2176
+"../../../../../UE4 projects/DogGame/Content/Assets/Sound/Kick_ball.uasset" 2177
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/4/AUDIO_0005_0000_OGG_0002_C5F02BA649039A6F242BC7BA3C16A6FB.udd" 2178
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_1C33CB8444D7D0C39FABD2B00AA28E9__B922BD37E8D69F212CA92428018B5DDD10092490.udd" 2179
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_318FFCDB403746E4DBA14199B3F3C2C__450F44E451C5772A69D30A6720C8F68B30697CE3.udd" 2180
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_ECA64445433DA571E50003B19749926__D8C631E130C9A3F239A91897E5F0465130224A7D.udd" 2181
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_06E2F47F4075A586C6CFC893F1617BC__383038A90F3A49540B54F09D8EC9635F683B9ADB.udd" 2182
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_712633664CD97D28BE599898DADEACA__01AA39255155E06905DF8873638263192740365A.udd" 2183
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_320B31AD4C0297C97F0840BE7CAC41E__B9FC91A7D8E46C949DFD1FF148CA45C78E35FBD3.udd" 2184
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_9186A7FA41B6C8F679E681B475C3417__61D35629F8EBFF45CA6180071FC9D9DE6D2ECBE3.udd" 2185
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_C00A08FA44694FD82AC344A982FAAA4__527D3F958DE544636A22880480AA8EFA0D59D26C.udd" 2186
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_8E1F508D4E0BB94EBD986C8377E50B7__43704134EEE4FD819D25497B150F7B125EA34978.udd" 2187
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_7FDCCA1049F518694C0DD4A460CB3A8__1DFCF808274385426C97449C629C53FC9E15B821.udd" 2188
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_96A315814264734E297182B06C0B8CE__A8D2ECCF7B029340E03DA305EA9656386319C9D1.udd" 2189
+"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_Dad2.uasset" 2190
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_utensad1_Sprite.uasset" 2191
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_utensad1.uasset" 2192
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_utensad2_Sprite.uasset" 2193
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_utensad2.uasset" 2194
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_utensad3_Sprite.uasset" 2195
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_utensad3.uasset" 2196
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_utensad4_Sprite.uasset" 2197
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_utensad4.uasset" 2198
+"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_SadDaddy2.uasset" 2199
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad1_Sprite.uasset" 2200
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad1.uasset" 2201
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad2_Sprite.uasset" 2202
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad2.uasset" 2203
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad3_Sprite.uasset" 2204
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad3.uasset" 2205
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad4_Sprite.uasset" 2206
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad4.uasset" 2207
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad5_Sprite.uasset" 2208
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad5.uasset" 2209
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad6_Sprite.uasset" 2210
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad6.uasset" 2211
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad7_Sprite.uasset" 2212
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad7.uasset" 2213
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad8_Sprite.uasset" 2214
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad8.uasset" 2215
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad9_Sprite.uasset" 2216
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/dad2_medsad9.uasset" 2217
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_4201D7954FE5D179F5EA08840CC8308__45BEA26DF3B3E3FC0D00324B283DA94ECED3E7FB.udd" 2218
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_F0A2A8E840EA649B52381C990AC2041__C5BD5A7D73473B3FAEABFF05B849511A44322069.udd" 2219
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_E1682EF24D3934D46D70DD9DB954A79__5891F8891BE1981C988CD09C79753D001EB1AA49.udd" 2220
+"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/S_fuckthisshitiwannadie_Sprite.uasset" 2221
+"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/fuckthisshitiwannadie.uasset" 2222
+"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/S_GarageUpdate.uasset" 2223
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 2224
+"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/gargagnewremadexde.uasset" 2225
+"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/S_Misc_Sky-Backdrop_Sprite.uasset" 2226
+"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/Misc_Sky-Backdrop.uasset" 2227
+"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/S_Scene1.uasset" 2228
+"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/Scene_Street.uasset" 2229
+"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/S_Scene2.uasset" 2230
+"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/Scene_House.uasset" 2231
+"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/Scene_PorchBackyard_Sprite.uasset" 2232
+"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/Scene_PorchBackyard.uasset" 2233
+"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/Scene_TreeBackyard_Sprite.uasset" 2234
+"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/Scene_TreeBackyard.uasset" 2235
+"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/Scene_TVroom_Sprite.uasset" 2236
+"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/Scene_TVroom.uasset" 2237
+"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/Stue_Sprite.uasset" 2238
+"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/Stue.uasset" 2239
+"../../../../../UE4 projects/DogGame/Content/Assets/Sound/Boy_Sceam.uasset" 2240
+"../../../../../UE4 projects/DogGame/Content/Assets/Sound/dad_cry.uasset" 2241
+"../../../../../UE4 projects/DogGame/Content/Assets/Sound/Outside_house.uasset" 2242
+"../../../../../UE4 projects/DogGame/Content/Assets/Sound/SC_AngetryRacoon.uasset" 2243
+"../../../../../UE4 projects/DogGame/Content/Assets/Sound/Angry_Raccoon.uasset" 2244
+"../../../../../UE4 projects/DogGame/Content/Assets/Sound/SC_Chips.uasset" 2245
+"../../../../../UE4 projects/DogGame/Content/Assets/Sound/Chips_crunsh.uasset" 2246
+"../../../../../UE4 projects/DogGame/Content/Assets/Sprites/S_Box.uasset" 2247
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/box.uasset" 2248
+"../../../../../UE4 projects/DogGame/Content/Assets/Sprites/S_BoxBG.uasset" 2249
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/box_back.uasset" 2250
+"../../../../../UE4 projects/DogGame/Content/Assets/Sprites/S_Cone.uasset" 2251
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/coner.uasset" 2252
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/2/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_26CBB6E64495402E432E2ABE47825290__1_0_0_0_2_13315_0.udd" 2253
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/4/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_A9AEA22D42EF6F799991F6A2B70706AC__1_0_0_0_2_13315_0.udd" 2254
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/4/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_1029A9FB4E2AD5859AA4BD911B65D97E__1_0_0_0_2_13315_0.udd" 2255
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_654DF13041C6312AF69AEEB3687F21E5__1_0_0_0_2_13315_0.udd" 2256
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/6/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_E4C100924DF3667F1E4EAAB5BD93D39F__1_0_0_0_2_13315_0.udd" 2257
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/4/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_B848495F4DDF299CC6E66DA22DD5C49C__1_0_0_0_2_13315_0.udd" 2258
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/7/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_C2BD107144BFD5D8BEF93BBCA677FA10__1_0_0_0_2_13315_0.udd" 2259
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/9/AUDIO_0005_0000_OGG_0002_9CE0A4264F96E61E0AECABBE00ED2499.udd" 2260
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/5/AUDIO_0005_0000_OGG_0002_BACE601540887889E91D359D1976BE32.udd" 2261
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/5/AUDIO_0005_0000_OGG_0002_DEDE671D4870A38355C37AB209180DAC.udd" 2262
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/8/AUDIO_0005_0000_OGG_0002_DEEF1F5C4C2F6F7979CCB6ADE1F53ABF.udd" 2263
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/8/AUDIO_0005_0000_OGG_0002_BBDE1FE4406B114ACF427D9BCDDEA8E9.udd" 2264
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_3017C0CF4CB3DAFC136ADAABDD88E70__E197F83FF94425AD14948929A0E5408452BE15A0.udd" 2265
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_25837A184F80FCFBA5666A8DBB92B4D__93AA55F16BC66977D8EC1254AE41BCE27CF082ED.udd" 2266
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_C4EEBEDD4C50FB99347839BDAAF9B5B__6702F909381EEE02DC80A0118BEABB3753D4F538.udd" 2267
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_F848EC114993997FE2F82EAF49BC30E__4429C36FAEDA5D96D29BE75694D469CBC2185B48.udd" 2268
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_A7FC77FB4DADF3CDB6235693DB9B8FF__D9A79B24182F32C362699597BEA64D6B7A6BBB9A.udd" 2269
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_ABC63C4F4A944D3E9D1F3B94F01962F__0DA9A3FD456AFBDAFCFF3D1CBBDEE07E6C442B13.udd" 2270
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_DEAD45E34B745FA1726409B937576CB__AA2325654209899B4BC565BDD0DAC0B85AF2B026.udd" 2271
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_7D4770D44E06C46F07699A94B2CE5B3__3785B66DFB0DB6D517CFB12CFE8724A97858920F.udd" 2272
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_45A870B441208A9113773FA6CEB3E77__E55F9D23010C4289C8C9EB4C437FD02A19CC092D.udd" 2273
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_40846E094E1B005660000AB6A0E7507__3BA6E6B287E955D786ED28374C4A5968DC8811AD.udd" 2274
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_81826ACB421D0C6762085E828A31FF3__AF52D4090B193802F8A1983F95F79C3C118EC3EE.udd" 2275
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_90098F294183913C60B18DA3999415D__C99D6709C412367450EB95BD98B9710D48A8EE37.udd" 2276
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_69CF3F984A4FC97FD1606497D478509__F112E1F3F3289EC2357467C81672A4210AC990E6.udd" 2277
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_9479570F4A874B8C536EA9BD93C9FE7__67544B4BB87BC43078DE4D758B008851611C8115.udd" 2278
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_7DB9FCED46661234EB67C7B3CE08EED__00F69B7952FFC5529178ECD3BD1F225DF6C839FE.udd" 2279
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_79AFA3DF4DFCE9AD9F63CF822DA66A5__E918908D019C969F3CACCB5EAC65A391B7CAFE68.udd" 2280
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_B11BEB514ED3F1F41D9BCF8C2D31FB2__1C3B52F42A133DC0C10A2D481F3B8F7F21C309B1.udd" 2281
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_1651F3D645638CD9B1F4B3A87B8F713__73820BA83A9C0DCF8D7B046CDA2E1F0966056601.udd" 2282
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_A91A10E648049F24EAC32FB3276D35E__9910D321F35143E510A31F9BD998EAF6E07BA30F.udd" 2283
+"../../../../../UE4 projects/DogGame/Content/Assets/Sound/Possible_dad1_sound3.uasset" 2284
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/7/AUDIO_0005_0000_OGG_0002_5AF855114996ECF632017B9C4421ECAC.udd" 2285
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_585DE69F4D7808AF95C015B3E8DC981__B78E05793C3C6B2CDDF1A800D12622406B63DD00.udd" 2286
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D8AF07664944767F3899698B904AEF0__04F59A14A2D070E28EF444714294471E19284048.udd" 2287
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D515B8AE458E620A24C409A40C7C5B3__E267F589333F28C120F32C5296EFB5A479969103.udd" 2288
+"../../../../../UE4 projects/DogGame/Content/Assets/Sound/Possible_dad1_sound.uasset" 2289
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/0/AUDIO_0005_0000_OGG_0002_C7D079D14AFCD3F68C877CA7FAC04A2B.udd" 2290
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 2291
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_stillsad4_Sprite.uasset" 2292
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_stillsad4.uasset" 2293
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D32D4CCB4A1DDE5DF5B1E8A8C67A0DA__0B751C71051FB2CDB27DAB2A516C30038550F152.udd" 2294
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_stillsad3_Sprite.uasset" 2295
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_stillsad3.uasset" 2296
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_BA7697CA493CC1075FFF2B96E2AD3EE__9D99EAA8268E815734F675484588715F65351543.udd" 2297
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_stillsad2_Sprite.uasset" 2298
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_stillsad2.uasset" 2299
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_46B2C4514FB019A35664479BB342EE8__10A7DA817329EF44A107DE4127290C00943AC454.udd" 2300
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_stillsad1_Sprite.uasset" 2301
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/girl_stillsad1.uasset" 2302
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_B731E11D4C20523E254691A73680F72__27B491D6F174A38C57E091B040B28184907C19D9.udd" 2303
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_Pickup2_Sprite.uasset" 2304
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_Sad_Pickup2.uasset" 2305
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_00D7CF4642DE04956E977BB03003390__6A971E760DEE4F9982A886B325AB973E524DFDCD.udd" 2306
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_happy_pickup2_Sprite.uasset" 2307
+"../../../../../UE4 projects/DogGame/Content/Assets/PNGs/Dog_happy_pickup2.uasset" 2308
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D82586BE46C261300E4A31943D0EDE5__738865DFF89D099A7088F7B50833922ED8EB592E.udd" 2309
+"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_SadDogPickup.uasset" 2310
+"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_GirlStillSad.uasset" 2311
+"../../../../../UE4 projects/DogGame/Content/Assets/Flipbooks/FB_DogPickup.uasset" 2312
+"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/S_Garage.uasset" 2313
+"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/gargage.uasset" 2314
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_7E0B3732414B1AA20B339D9D7C6619D__7D78EFCFECAFA2952742EB9ED29485C27DDE03A0.udd" 2315
+"../../../../../UE4 projects/DogGame/Content/Assets/Backgrounds/fuckthisshitiwannadie1.uasset" 2316
+"../../../../../UE4 projects/DogGame/Content/Garage_BuiltData.uasset" 2317
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_569362C74D78A4C7CB9985AEEBCA2__F73263A146726C16665A388A56A824E447BF6CE9.udd" 2318
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_569362C74D78A4C7CB9985AEEBCA2__AD2AD36176C72D24D4ACEDEDD5001FFCA8725FFA.udd" 2319
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E478B61C493755205A5216BECC9DD__3AF42EC3723B8C87C39415CCDDF45DF1B302657C.udd" 2320
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_AAE2A25B470CAD4086ABD9A0E108809C__47BFF17584511EA79AAA3556A8F4C67FD480A1F5.udd" 2321
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_569362C74D78A4C7CB9985AEEBCA2__1B279420A7567185F4FD71C5DD8435B79439B98C.udd" 2322
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_AAE2A25B470CAD4086ABD9A0E108809C__141F285814A9CBACBAA03F3D8CCD27AE5735F555.udd" 2323
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_569362C74D78A4C7CB9985AEEBCA2__33624D4F483D4337B2508F27AD5AA43F5EC5C95D.udd" 2324
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_AAE2A25B470CAD4086ABD9A0E108809C__1920B0B89C5988E2973D91A2A151E255B6EDCB94.udd" 2325
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_5495CC4041A88FF7DD5758AA3EEE7BBA__01BC92C36544873CB06C683406D39D8B7AAD283C.udd" 2326
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_AAE2A25B470CAD4086ABD9A0E108809C__EC2DDD5828F5AD62B1E0346073A5EDFF3337B5CD.udd" 2327
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_83E3135F489D6296CDD502B323782E72_0__4A34CE9E2FDF0557ECE322FED63B4FA27FDA28B6.udd" 2328
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_ECD7337B47C4A5CCE9A3C0A435FB8D32_0__56A9F9266EFC0A1E1A2D87D624F6D1FE208E6410.udd" 2329
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_83E3135F489D6296CDD502B323782E72_0__6E82C975C0B7406874C9BCF922EE2A2A4C75FE23.udd" 2330
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_83E3135F489D6296CDD502B323782E72_0__B69255DB10E6CAC50EF5FD487E0984C9599D0DB8.udd" 2331
+"C:/Users/Johanne/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_83E3135F489D6296CDD502B323782E72_0__57121076747E0FD11BD82FE057360C7124B5BD72.udd" 2332
